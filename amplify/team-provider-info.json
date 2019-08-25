@@ -1,0 +1,50 @@
+{
+    "dd": {
+        "awscloudformation": {
+            "AuthRoleName": "hackthe6ix-dd-20190824070651-authRole",
+            "UnauthRoleArn": "arn:aws:iam::191024116997:role/hackthe6ix-dd-20190824070651-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::191024116997:role/hackthe6ix-dd-20190824070651-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "hackthe6ix-dd-20190824070651-deployment",
+            "UnauthRoleName": "hackthe6ix-dd-20190824070651-unauthRole",
+            "StackName": "hackthe6ix-dd-20190824070651",
+            "StackId": "arn:aws:cloudformation:us-east-2:191024116997:stack/hackthe6ix-dd-20190824070651/4682c9c0-c65f-11e9-a961-02edfbb31034"
+        }
+    },
+    "qa": {
+        "awscloudformation": {
+            "AuthRoleName": "hackthe6ix-qa-20190824074453-authRole",
+            "UnauthRoleArn": "arn:aws:iam::191024116997:role/hackthe6ix-qa-20190824074453-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::191024116997:role/hackthe6ix-qa-20190824074453-authRole",
+            "Region": "us-east-2",
+            "DeploymentBucketName": "hackthe6ix-qa-20190824074453-deployment",
+            "UnauthRoleName": "hackthe6ix-qa-20190824074453-unauthRole",
+            "StackName": "hackthe6ix-qa-20190824074453",
+            "StackId": "arn:aws:cloudformation:us-east-2:191024116997:stack/hackthe6ix-qa-20190824074453/966e6fc0-c664-11e9-afd9-0658482cfd4e"
+        }
+    },
+    "yq": {
+        "awscloudformation": {
+            "AuthRoleName": "hackthe6ix-yq-20190824180430-authRole",
+            "UnauthRoleArn": "arn:aws:iam::191024116997:role/hackthe6ix-yq-20190824180430-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::191024116997:role/hackthe6ix-yq-20190824180430-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "hackthe6ix-yq-20190824180430-deployment",
+            "UnauthRoleName": "hackthe6ix-yq-20190824180430-unauthRole",
+            "StackName": "hackthe6ix-yq-20190824180430",
+            "StackId": "arn:aws:cloudformation:us-west-2:191024116997:stack/hackthe6ix-yq-20190824180430/25c0b100-c6bb-11e9-9842-0a33685a019e"
+        }
+    },
+    "zz": {
+        "awscloudformation": {
+            "AuthRoleName": "hackthe6ix-zz-20190824181202-authRole",
+            "UnauthRoleArn": "arn:aws:iam::191024116997:role/hackthe6ix-zz-20190824181202-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::191024116997:role/hackthe6ix-zz-20190824181202-authRole",
+            "Region": "us-west-2",
+            "DeploymentBucketName": "hackthe6ix-zz-20190824181202-deployment",
+            "UnauthRoleName": "hackthe6ix-zz-20190824181202-unauthRole",
+            "StackName": "hackthe6ix-zz-20190824181202",
+            "StackId": "arn:aws:cloudformation:us-west-2:191024116997:stack/hackthe6ix-zz-20190824181202/32fa5a50-c6bc-11e9-8d27-06b57ba4e740"
+        }
+    }
+}
